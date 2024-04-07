@@ -38,16 +38,14 @@ header {
   color: black;
 }
 @media (max-width: 900px) {
-  header {
-    display: flex;
-    justify-content: space-between;
-  }
+
   .content-section {
     display: block;
   }
   .content-section img {
     display: block;
-    margin: -52px -33px;
-    width: 500px;
+    margin: -52px -2px ;
+    width: 105%;
+  
   }
 }
