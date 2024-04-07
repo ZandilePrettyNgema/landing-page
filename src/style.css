@@ -17,15 +17,12 @@ header {
 
 .content-section h1 {
   font-size: 72px;
-  font-weight: 500;
   font-style: normal;
 }
 .content-section p {
   font-size: 20px;
-  font-weight: 400;
+  color: #808080;
   font-style: normal;
-  opacity: 0.9;
-  color: rgb(92, 92, 92);
 }
 .content-section img {
   margin-top: -120px;
