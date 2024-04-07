@@ -38,6 +38,10 @@ header {
   color: black;
 }
 @media (max-width: 900px) {
+  header {
+    display: flex;
+    justify-content: space-between;
+  }
   .content-section {
     display: block;
   }
@@ -45,6 +49,5 @@ header {
     display: block;
     margin: -52px -33px;
     width: 500px;
-    
   }
 }
