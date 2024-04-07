@@ -26,6 +26,8 @@ header {
 }
 .content-section img {
   margin: -150px -16px;
+  width: 50%;
+  height: 50%;
 }
 .content-section strong {
   color: #9d2c2ce6;
@@ -41,7 +43,8 @@ header {
   }
   .content-section img {
     display: block;
-    margin: -40px 66px;
-
+    margin: -56px -33px;
+    width: 500px;
+    
   }
 }
